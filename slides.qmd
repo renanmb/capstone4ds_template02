@@ -67,6 +67,7 @@ A study was conducted to determine how...
 
 ```{r, warning=FALSE, echo=F, message=FALSE}
 # loading packages 
+library(conflicted)
 library(tidyverse)
 library(knitr)
 library(ggthemes)
