@@ -1,7 +1,7 @@
 ---
 title: "Writing a great story for data science projects - Fall 2025 "
-subtitle: "This is a Report Template Quarto"
-author: "Student Name (Advisor: Dr. Cohen)"
+subtitle: "This is a Report Template test in Quarto"
+author: "Student Name: Renan (Advisor: Dr. Cohen)"
 date: '`r Sys.Date()`'
 format:
   html:
